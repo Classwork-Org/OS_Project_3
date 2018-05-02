@@ -1,0 +1,400 @@
+currentBufferContents: 
+buffer[0]: 596516649
+buffer[1]: 0
+buffer[2]: 0
+buffer[3]: 0
+buffer[4]: 0
+empty_sem: 4 full_sem: 1 frontptr: 0 rearptr: 1
+producer 2 produced 596516649
+currentBufferContents: 
+buffer[0]: 596516649
+buffer[1]: 0
+buffer[2]: 0
+buffer[3]: 0
+buffer[4]: 0
+empty_sem: 5 full_sem: 0 frontptr: 1 rearptr: 1
+consumer 3 consumed 596516649
+currentBufferContents: 
+buffer[0]: 596516649
+buffer[1]: 1967513926
+buffer[2]: 0
+buffer[3]: 0
+buffer[4]: 0
+empty_sem: 4 full_sem: 1 frontptr: 1 rearptr: 2
+producer 2 produced 1967513926
+currentBufferContents: 
+buffer[0]: 596516649
+buffer[1]: 1967513926
+buffer[2]: 1540383426
+buffer[3]: 0
+buffer[4]: 0
+empty_sem: 3 full_sem: 2 frontptr: 1 rearptr: 3
+producer 2 produced 1540383426
+currentBufferContents: 
+buffer[0]: 596516649
+buffer[1]: 1967513926
+buffer[2]: 1540383426
+buffer[3]: 1303455736
+buffer[4]: 0
+empty_sem: 2 full_sem: 3 frontptr: 1 rearptr: 4
+producer 2 produced 1303455736
+currentBufferContents: 
+buffer[0]: 596516649
+buffer[1]: 1967513926
+buffer[2]: 1540383426
+buffer[3]: 1303455736
+buffer[4]: 0
+empty_sem: 3 full_sem: 2 frontptr: 2 rearptr: 4
+consumer 0 consumed 1967513926
+currentBufferContents: 
+buffer[0]: 596516649
+buffer[1]: 1967513926
+buffer[2]: 1540383426
+buffer[3]: 1303455736
+buffer[4]: 0
+empty_sem: 4 full_sem: 1 frontptr: 3 rearptr: 4
+consumer 0 consumed 1540383426
+currentBufferContents: 
+buffer[0]: 596516649
+buffer[1]: 1967513926
+buffer[2]: 1540383426
+buffer[3]: 1303455736
+buffer[4]: 0
+empty_sem: 5 full_sem: 0 frontptr: 4 rearptr: 4
+consumer 2 consumed 1303455736
+currentBufferContents: 
+buffer[0]: 596516649
+buffer[1]: 1967513926
+buffer[2]: 1540383426
+buffer[3]: 1303455736
+buffer[4]: 278722862
+empty_sem: 4 full_sem: 1 frontptr: 4 rearptr: 0
+producer 3 produced 278722862
+currentBufferContents: 
+buffer[0]: 2145174067
+buffer[1]: 1967513926
+buffer[2]: 1540383426
+buffer[3]: 1303455736
+buffer[4]: 278722862
+empty_sem: 3 full_sem: 2 frontptr: 4 rearptr: 1
+producer 1 produced 2145174067
+currentBufferContents: 
+buffer[0]: 2145174067
+buffer[1]: 1967513926
+buffer[2]: 1540383426
+buffer[3]: 1303455736
+buffer[4]: 278722862
+empty_sem: 4 full_sem: 1 frontptr: 0 rearptr: 1
+consumer 0 consumed 278722862
+currentBufferContents: 
+buffer[0]: 2145174067
+buffer[1]: 1967513926
+buffer[2]: 1540383426
+buffer[3]: 1303455736
+buffer[4]: 278722862
+empty_sem: 5 full_sem: 0 frontptr: 1 rearptr: 1
+consumer 1 consumed 2145174067
+currentBufferContents: 
+buffer[0]: 2145174067
+buffer[1]: 1125898167
+buffer[2]: 1540383426
+buffer[3]: 1303455736
+buffer[4]: 278722862
+empty_sem: 4 full_sem: 1 frontptr: 1 rearptr: 2
+producer 4 produced 1125898167
+currentBufferContents: 
+buffer[0]: 2145174067
+buffer[1]: 1125898167
+buffer[2]: 2089018456
+buffer[3]: 1303455736
+buffer[4]: 278722862
+empty_sem: 3 full_sem: 2 frontptr: 1 rearptr: 3
+producer 0 produced 2089018456
+currentBufferContents: 
+buffer[0]: 2145174067
+buffer[1]: 1125898167
+buffer[2]: 2089018456
+buffer[3]: 1303455736
+buffer[4]: 278722862
+empty_sem: 4 full_sem: 1 frontptr: 2 rearptr: 3
+consumer 4 consumed 1125898167
+currentBufferContents: 
+buffer[0]: 2145174067
+buffer[1]: 1125898167
+buffer[2]: 2089018456
+buffer[3]: 1303455736
+buffer[4]: 278722862
+empty_sem: 5 full_sem: 0 frontptr: 3 rearptr: 3
+consumer 3 consumed 2089018456
+currentBufferContents: 
+buffer[0]: 2145174067
+buffer[1]: 1125898167
+buffer[2]: 2089018456
+buffer[3]: 859484421
+buffer[4]: 278722862
+empty_sem: 4 full_sem: 1 frontptr: 3 rearptr: 4
+producer 2 produced 859484421
+currentBufferContents: 
+buffer[0]: 2145174067
+buffer[1]: 1125898167
+buffer[2]: 2089018456
+buffer[3]: 859484421
+buffer[4]: 608413784
+empty_sem: 3 full_sem: 2 frontptr: 3 rearptr: 0
+producer 4 produced 608413784
+currentBufferContents: 
+buffer[0]: 2145174067
+buffer[1]: 1125898167
+buffer[2]: 2089018456
+buffer[3]: 859484421
+buffer[4]: 608413784
+empty_sem: 4 full_sem: 1 frontptr: 4 rearptr: 0
+consumer 2 consumed 859484421
+currentBufferContents: 
+buffer[0]: 2145174067
+buffer[1]: 1125898167
+buffer[2]: 2089018456
+buffer[3]: 859484421
+buffer[4]: 608413784
+empty_sem: 5 full_sem: 0 frontptr: 0 rearptr: 0
+consumer 2 consumed 608413784
+currentBufferContents: 
+buffer[0]: 1424268980
+buffer[1]: 1125898167
+buffer[2]: 2089018456
+buffer[3]: 859484421
+buffer[4]: 608413784
+empty_sem: 4 full_sem: 1 frontptr: 0 rearptr: 1
+producer 3 produced 1424268980
+currentBufferContents: 
+buffer[0]: 1424268980
+buffer[1]: 749241873
+buffer[2]: 2089018456
+buffer[3]: 859484421
+buffer[4]: 608413784
+empty_sem: 3 full_sem: 2 frontptr: 0 rearptr: 2
+producer 3 produced 749241873
+currentBufferContents: 
+buffer[0]: 1424268980
+buffer[1]: 749241873
+buffer[2]: 42999170
+buffer[3]: 859484421
+buffer[4]: 608413784
+empty_sem: 2 full_sem: 3 frontptr: 0 rearptr: 3
+producer 1 produced 42999170
+currentBufferContents: 
+buffer[0]: 1424268980
+buffer[1]: 749241873
+buffer[2]: 42999170
+buffer[3]: 135497281
+buffer[4]: 608413784
+empty_sem: 1 full_sem: 4 frontptr: 0 rearptr: 4
+producer 1 produced 135497281
+currentBufferContents: 
+buffer[0]: 1424268980
+buffer[1]: 749241873
+buffer[2]: 42999170
+buffer[3]: 135497281
+buffer[4]: 608413784
+empty_sem: 2 full_sem: 3 frontptr: 1 rearptr: 4
+consumer 0 consumed 1424268980
+currentBufferContents: 
+buffer[0]: 1424268980
+buffer[1]: 749241873
+buffer[2]: 42999170
+buffer[3]: 135497281
+buffer[4]: 1937477084
+empty_sem: 1 full_sem: 4 frontptr: 1 rearptr: 0
+producer 4 produced 1937477084
+currentBufferContents: 
+buffer[0]: 1424268980
+buffer[1]: 749241873
+buffer[2]: 42999170
+buffer[3]: 135497281
+buffer[4]: 1937477084
+empty_sem: 2 full_sem: 3 frontptr: 2 rearptr: 0
+consumer 4 consumed 749241873
+currentBufferContents: 
+buffer[0]: 1424268980
+buffer[1]: 749241873
+buffer[2]: 42999170
+buffer[3]: 135497281
+buffer[4]: 1937477084
+empty_sem: 3 full_sem: 2 frontptr: 3 rearptr: 0
+consumer 4 consumed 42999170
+currentBufferContents: 
+buffer[0]: 1424268980
+buffer[1]: 749241873
+buffer[2]: 42999170
+buffer[3]: 135497281
+buffer[4]: 1937477084
+empty_sem: 4 full_sem: 1 frontptr: 4 rearptr: 0
+consumer 1 consumed 135497281
+currentBufferContents: 
+buffer[0]: 1424268980
+buffer[1]: 749241873
+buffer[2]: 42999170
+buffer[3]: 135497281
+buffer[4]: 1937477084
+empty_sem: 5 full_sem: 0 frontptr: 0 rearptr: 0
+consumer 3 consumed 1937477084
+currentBufferContents: 
+buffer[0]: 1141616124
+buffer[1]: 749241873
+buffer[2]: 42999170
+buffer[3]: 135497281
+buffer[4]: 1937477084
+empty_sem: 4 full_sem: 1 frontptr: 0 rearptr: 1
+producer 0 produced 1141616124
+currentBufferContents: 
+buffer[0]: 1141616124
+buffer[1]: 749241873
+buffer[2]: 42999170
+buffer[3]: 135497281
+buffer[4]: 1937477084
+empty_sem: 5 full_sem: 0 frontptr: 1 rearptr: 1
+consumer 2 consumed 1141616124
+currentBufferContents: 
+buffer[0]: 1141616124
+buffer[1]: 1998898814
+buffer[2]: 42999170
+buffer[3]: 135497281
+buffer[4]: 1937477084
+empty_sem: 4 full_sem: 1 frontptr: 1 rearptr: 2
+producer 1 produced 1998898814
+currentBufferContents: 
+buffer[0]: 1141616124
+buffer[1]: 1998898814
+buffer[2]: 42999170
+buffer[3]: 135497281
+buffer[4]: 1937477084
+empty_sem: 5 full_sem: 0 frontptr: 2 rearptr: 2
+consumer 0 consumed 1998898814
+currentBufferContents: 
+buffer[0]: 1141616124
+buffer[1]: 1998898814
+buffer[2]: 356426808
+buffer[3]: 135497281
+buffer[4]: 1937477084
+empty_sem: 4 full_sem: 1 frontptr: 2 rearptr: 3
+producer 2 produced 356426808
+currentBufferContents: 
+buffer[0]: 1141616124
+buffer[1]: 1998898814
+buffer[2]: 356426808
+buffer[3]: 1889947178
+buffer[4]: 1937477084
+empty_sem: 3 full_sem: 2 frontptr: 2 rearptr: 4
+producer 2 produced 1889947178
+currentBufferContents: 
+buffer[0]: 1141616124
+buffer[1]: 1998898814
+buffer[2]: 356426808
+buffer[3]: 1889947178
+buffer[4]: 709393584
+empty_sem: 2 full_sem: 3 frontptr: 2 rearptr: 0
+producer 2 produced 709393584
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1998898814
+buffer[2]: 356426808
+buffer[3]: 1889947178
+buffer[4]: 709393584
+empty_sem: 1 full_sem: 4 frontptr: 2 rearptr: 1
+producer 3 produced 1918502651
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1998898814
+buffer[2]: 356426808
+buffer[3]: 1889947178
+buffer[4]: 709393584
+empty_sem: 2 full_sem: 3 frontptr: 3 rearptr: 1
+consumer 2 consumed 356426808
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1998898814
+buffer[2]: 356426808
+buffer[3]: 1889947178
+buffer[4]: 709393584
+empty_sem: 3 full_sem: 2 frontptr: 4 rearptr: 1
+consumer 2 consumed 1889947178
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1998898814
+buffer[2]: 356426808
+buffer[3]: 1889947178
+buffer[4]: 709393584
+empty_sem: 4 full_sem: 1 frontptr: 0 rearptr: 1
+consumer 2 consumed 709393584
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1998898814
+buffer[2]: 356426808
+buffer[3]: 1889947178
+buffer[4]: 709393584
+empty_sem: 5 full_sem: 0 frontptr: 1 rearptr: 1
+consumer 4 consumed 1918502651
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1749698586
+buffer[2]: 356426808
+buffer[3]: 1889947178
+buffer[4]: 709393584
+empty_sem: 4 full_sem: 1 frontptr: 1 rearptr: 2
+producer 4 produced 1749698586
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1749698586
+buffer[2]: 356426808
+buffer[3]: 1889947178
+buffer[4]: 709393584
+empty_sem: 5 full_sem: 0 frontptr: 2 rearptr: 2
+consumer 0 consumed 1749698586
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1749698586
+buffer[2]: 1036140795
+buffer[3]: 1889947178
+buffer[4]: 709393584
+empty_sem: 4 full_sem: 1 frontptr: 2 rearptr: 3
+producer 0 produced 1036140795
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1749698586
+buffer[2]: 1036140795
+buffer[3]: 2040651434
+buffer[4]: 709393584
+empty_sem: 3 full_sem: 2 frontptr: 2 rearptr: 4
+producer 1 produced 2040651434
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1749698586
+buffer[2]: 1036140795
+buffer[3]: 2040651434
+buffer[4]: 709393584
+empty_sem: 4 full_sem: 1 frontptr: 3 rearptr: 4
+consumer 1 consumed 1036140795
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1749698586
+buffer[2]: 1036140795
+buffer[3]: 2040651434
+buffer[4]: 709393584
+empty_sem: 5 full_sem: 0 frontptr: 4 rearptr: 4
+consumer 3 consumed 2040651434
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1749698586
+buffer[2]: 1036140795
+buffer[3]: 2040651434
+buffer[4]: 1376710097
+empty_sem: 4 full_sem: 1 frontptr: 4 rearptr: 0
+producer 3 produced 1376710097
+currentBufferContents: 
+buffer[0]: 1918502651
+buffer[1]: 1749698586
+buffer[2]: 1036140795
+buffer[3]: 2040651434
+buffer[4]: 1376710097
+empty_sem: 5 full_sem: 0 frontptr: 0 rearptr: 0
+consumer 4 consumed 1376710097
